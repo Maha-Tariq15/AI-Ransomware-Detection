@@ -1,0 +1,18 @@
+Dataset:
+Final_Dataset_without_duplicate.csv
+
+Description:
+A malware detection dataset containing static PE file features extracted from executable files.
+
+Samples:
+21,752
+
+Features:
+76 input features
+
+Labels:
+Benign
+Malware
+
+Note:
+The original dataset is not included in this repository. Please download it separately and place it in this folder.
